@@ -1,0 +1,2 @@
+test sample git commands
+Hello, this is the **feature note** by B.

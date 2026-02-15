@@ -18,7 +18,7 @@ def main():
     execute_from_command_line(sys.argv)
 
 def test():
-    print("test func")
+    print("test func123")
 
 if __name__ == '__main__':
     main()
